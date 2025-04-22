@@ -1,2 +1,2 @@
-# vojna
-Vojna card game simulation, because i got mad playing the irl version and wanted to prove that its deterministic bullshit
+# Card game Vojna simulator
+A small personal project, created to prove a point. 
